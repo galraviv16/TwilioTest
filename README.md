@@ -1,7 +1,7 @@
 Test Plugin for Twilio Integration
 ==================================
 
-Welcome to our Test Plugin for Twilio Integration README. This document serves as a guide for potential candidates looking to join our company through the completion of specific Twilio-based tasks. Each task is designed to assess your ability to work with Twilio's services, specifically focusing on Studio Flows, Workflows, Plugins, and Functions.
+Welcome to our Test Plugin for Twilio Integration README. This document serves as a guide for potential candidates looking to join our company through the completion of specific Twilio-based tasks. Each task is designed to assess your ability to work with Twilio's services, specifically focusing on Studio Flows, Workflows, Plugins, and Functions. This assignment will require you do some digging into Twilio and its documentation. This is so we can see you ability to work independently, and your ability understand Twilio and its products as opposed to your skills as a developer. Overall this assignment shouldn't take more than 20 hours to complete. After sending this I hope to recieve an answer back after about a week where we can schedule a review meeting together with me and another developer. Good luck!
 
 Prerequisites
 -------------
