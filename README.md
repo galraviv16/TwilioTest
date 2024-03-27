@@ -48,10 +48,10 @@ that enables customers to listen to a message and choose 1 of 2 options. The flo
 Submission Guidelines
 ---------------------
 
-*   Fork this repository.
-*   Complete the tasks in your forked repository.
+*   Clone this repo 
+*   Complete the tasks in your cloned repository.
 *   Ensure your code is well-documented and includes comments explaining your logic and decisions.
-*   Submit a pull request with a detailed description of your implementation and any necessary instructions for testing your plugin.
+*   After we scheduled a review meeting please send me the link to your repo
 
 Evaluation Criteria
 -------------------
